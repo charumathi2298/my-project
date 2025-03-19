@@ -1,0 +1,1 @@
+select * from employees  where id=4 - Fetching the data
